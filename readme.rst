@@ -22,7 +22,7 @@ Execute Application
 ###################
 After mysql and mongodb configuration create table in mysql by below command
 
-```php
+```
 php index.php migrate "users"
 ```
 
