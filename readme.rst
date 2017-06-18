@@ -17,4 +17,12 @@ Modify database credentials for mongoDB
 
 -Before executing this application make sure start the mongoDB
 
+###################
+Execute Application
+###################
+After mysql and mongodb configuration create table in mysql by below command
 
+```php
+php index.php migrate "users"
+```
+localhost/codeigniter-mysql-mongo/users
